@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+# Software Projects 
+### By: Charles M. Wolfe
 
 You can use the [editor on GitHub](https://github.com/CMWolfe922/CMWolfe922.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Current Projects:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[__market-data__](https://github.com/CMWolfe922/market-data) --> This is a side project of my own that I started to learn how to interact with an API to download price history data as well as fundamental data. As of now I can scrape the internet for every stock symbol in a given exchange and store it into a MySQL database. It will then select every symbol in the database (over 20 thousand) and retrieve the last 10 days 1-minute data. It also has the options to change the query params from minutes, to days to years.  
 
 ```markdown
 Syntax highlighted code block
